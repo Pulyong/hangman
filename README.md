@@ -3,7 +3,7 @@ Hangman Game이란?
 행맨게임의 규칙
 ------------
 ## 행맨
-<img src="https://ww.namu.la/s/8da5aeb17af9030aa1ab5e384308b50aa7bf4067b055a45bfc24fed7806747fc27b439f8b8f131efd3b3628ca3d1054d6e81de2543beb7eb94e8ac0415e2c8b3c11a06248644206bc5b3d5daf5917202cb23211c81df2368e0574b22e77e0f3f" width="250px" height="300px" title="Hangman" alt="Hangman"></img>
+<img src="https://ww.namu.la/s/8da5aeb17af9030aa1ab5e384308b50aa7bf4067b055a45bfc24fed7806747fc27b439f8b8f131efd3b3628ca3d1054d6e81de2543beb7eb94e8ac0415e2c8b3c11a06248644206bc5b3d5daf5917202628034dbde6e1df081d0db97482f7782" width="250px" height="300px" title="Hangman" alt="Hangman"></img>
 <p>
 영어 단어 맞히기 게임 중 하나로, 글자 수만큼 빈칸 또는 밑줄을 그려놓고 26개 글자 중 하나를 대면 그 글자가 있을 경우 있는 칸에 있는 대로 다 적어놓고 없을 경우 라이프를 하나 깎는 게임. 
 교수대에 교수형을 당하는 졸라맨 같은 사람의 그림을 그리는데, 처음에는 공백으로 시작하다가 한 글자 틀려서 라이프가 깎일 때 마다 그 틀린 글자를 표시해놓고 교수대-밧줄-머리-팔-손-몸통-다리-발 순서로 그어져서 
